@@ -16,23 +16,28 @@ This is my personal portfolio website, developed using React. It showcases my pr
 - **CSS/Styled-Components:** For styling the application and ensuring a responsive design.
 - **GitHub Pages:** For deployment.
 
-## Installation
+In the project directory, you can run:
 
-To run this project locally, follow these steps:
+### `npm start`
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-portfolio-repo.git
-2. Navigate to the project directory:
-bash
-cd your-portfolio-repo
-3. Install the dependencies:
-bash
-npm install
-4. Start the development server:
-bash
-npm start
-Feel free to get in touch with me at:
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
 Email: pulkitnishad789@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/pulkit-kumar-199534201/
